@@ -240,6 +240,13 @@ logEach( 'x1[%d] = %.2f; x2[%d] = %.2f', idx, x1, idx, x2 );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/random-base/weibull`][@stdlib/random/base/weibull]</span><span class="delimiter">: </span><span class="description">Weibull distributed pseudorandom numbers.</span>
+-   <span class="package-name">[`@stdlib/random-array/weibull`][@stdlib/random/array/weibull]</span><span class="delimiter">: </span><span class="description">create an array containing pseudorandom numbers drawn from a Weibull distribution.</span>
+
 </section>
 
 <!-- /.related -->
@@ -321,6 +328,12 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [@stdlib/random/base/weibull]: https://github.com/stdlib-js/random-base-weibull
 
 [@stdlib/array/uint32]: https://github.com/stdlib-js/array-uint32
+
+<!-- <related-links> -->
+
+[@stdlib/random/array/weibull]: https://github.com/stdlib-js/random-array-weibull
+
+<!-- </related-links> -->
 
 </section>
 
